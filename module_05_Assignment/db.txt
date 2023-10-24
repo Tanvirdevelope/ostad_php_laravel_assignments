@@ -1,0 +1,8 @@
+1|Tanvir Chowdhury|tanvir@gmail.com|1234|Admin|
+2|Abir Rahman|abir@gmail.com|1234|Admin|
+3|Miraz|miraz@gmail.com|1234|User|
+4|Sohan|sohan@gmail.com|1234|User|
+5|Mehedy|mehedy@gmail.com|1234|User|
+6|Akash|akash@gmail.com|1234|User|
+
+7|Alamgir|alamgir@gmail.com|1234|User|

@@ -1,0 +1,33 @@
+.heading h3{
+    border-radius: 50px;
+    padding: 10px 10px;
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 30px;
+    background: linear-gradient(65deg, rgb(248, 203, 203),rgba(102, 240, 203, 0.885),rgb(250, 250, 123));
+    color: #213a97;
+}
+.button{
+    margin-top: 20px;
+    padding: 5px 100px;
+    color: #213a97;
+    background: linear-gradient(65deg, rgb(248, 203, 203),rgba(102, 240, 203, 0.885),rgb(250, 250, 123));
+    border-radius: 15px;
+}
+.button:hover{
+    color:white;
+    background: linear-gradient(65deg, #643232,#266051e2,#6a6a2c);
+    transition: 0.6s;
+}
+.user_color{
+    font-weight: bolder;
+    color: #0006c2;
+}
+.pass_color{
+    font-weight: bold;
+    color: #cf0505;
+}
+.reg_text{
+    margin-top: 20px;
+    font-size: 1.1rem;
+}
