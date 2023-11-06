@@ -1,4 +1,4 @@
-<?php include("db_connection.php")?>
+<?php include ("db_connection.php")?>
   <h1 style="text-align: center;">Task-01: Customer Orders</h1>
 
     <?php
